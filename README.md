@@ -1,5 +1,7 @@
 # The Tic-Tac-Toe Multiverse [*TicTacToe-Verse*]
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=srijan-76448/tictactoe-verse)
+
 ## 🌌 Project Overview
 
 Welcome to the **TicTacToe-Verse**! This repository is a unique collection of the classic Tic-Tac-Toe game, implemented in an ever-expanding array of programming languages. It serves as a fun and educational exploration of different language paradigms, syntax, and runtime environments, all through the lens of a simple, familiar game.
