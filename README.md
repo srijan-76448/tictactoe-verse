@@ -479,7 +479,7 @@ Have a **Tic-Tac-Toe** implementation in another language? We welcome contributi
 
 ## 📜 License
 
-This project is open-sourced under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is open-sourced under the [MIT License](/LICENSE).
 
 ---
 
